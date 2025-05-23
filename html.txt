@@ -1,4 +1,5 @@
 <script src="https://cdn.jsdelivr.net/gh/BlackmagicALT/minesweeperonline.com@refs/heads/main/minesweeper.min.js?v=1747176478"></script>
 https://cdn.jsdelivr.net/gh/BlackmagicALT/minesweeperonline.com@refs/heads/main/minesweeper.min.js?v=1747176478
 
+https://raw.githubusercontent.com/BlackmagicALT/minesweeperonline.com/refs/heads/main/minesweeper.min.js?v=1747176478
 https://www.jsdelivr.com/github
